@@ -2,6 +2,8 @@
 Programming project using LabVIEW, MATLAB and C++ for the course 'Programming for Engineers' (Prof. Salzmann) @ EPF Lausanne
 The project more than fulfilled all the requirements and was graded with grade 6/6.
 
+## Project description
+
 The task consisted in the analysis of a video of an air hockey table with pucks, in order to determine the number of impacts between the pucks and the air hockey table as well as the number of impacts between the pucks themselves. A PDF file "AH_score" with the analysis of the game is then produced showing the results.
 
 This project aimed at familiarizing with the three environments (LabVIEW, MATLAB and C++) studied in this class, meant as a general introduction to programming. Each environment manages one stage of the project, therefore the project is divided into several parts schematized by the figure below:
