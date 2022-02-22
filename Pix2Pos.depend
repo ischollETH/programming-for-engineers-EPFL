@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1527698740 source:c:\users\iansc\desktop\projetprogrammation\projet\c++\pix2pos\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<cmath>
+	<stdlib.h>
+
