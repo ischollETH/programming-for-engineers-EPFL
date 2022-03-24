@@ -1,6 +1,9 @@
 # programming-for-engineers-EPFL
-Programming project using LabVIEW, MATLAB and C++ for the course 'Programming for Engineers' (Prof. Salzmann) @ EPF Lausanne
+Programming project using LabVIEW, MATLAB and C++ for the course 'Programming for Engineers' (Prof. Salzmann) @ EPFL Lausanne.
+
 The project more than fulfilled all the requirements and was graded with grade 6/6.
+
+Credit for the project setup, description and some skeleton code goes to Prof. Salzmann and his teaching assistants.
 
 ## Project description
 
